@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**Rahul-5225/Rahul-5225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Aspiring VLSI & RTL Design Engineer
 
-Here are some ideas to get you started:
+I'm an ECE student interested in digital hardware and semiconductor technologies. 
+I'm currently building my fundamentals in digital electronics, C programming, 
+Verilog HDL, RTL design, and FPGA development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- 🔹 Digital Electronics & Digital Logic
+- 🔹 C Programming
+- 🔹 Verilog HDL
+- 🔹 RTL Design
+- 🔹 FPGA Design
+- 🔹 VLSI & ASIC Design
+
+## 🛠️ Skills I'm Learning
+
+### Programming
+- C
+- Python
+
+### Hardware & HDL
+- Digital Logic Design
+- Verilog HDL
+- RTL Design
+- FPGA
+- VLSI / ASIC Design
+
+### Tools
+- Git & GitHub
+- Linux
+- EDA tools
+
+## 📚 Learning Roadmap
+
+```text
+Digital Electronics
+        ↓
+Computer Architecture
+        ↓
+Verilog HDL
+        ↓
+RTL Design
+        ↓
+Simulation & Verification
+        ↓
+FPGA Projects
+        ↓
+ASIC / VLSI Design
